@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    //delivery
+    <string name="Delivery">Delivery</string>
+    <string name="delivery_subtitle">What are my shipping charges?</string>
+    <string name="delivery_text">At checkout, you will be prompted to choose a shipping method for your product(s).
+        Your total shipping charges will automatically compute during checkout prior to the completion of your order.
+        Free Shipping is available for standard delivery for orders above a minimum spend of RM150. There will be
+        no shipping charges if you choose to click and collect from our stores.\n</string>
+
+    <string name="delivery_subtitle2">What is the delivery time?</string>
+    <string name="delivery_text2">Your order will be processed up to 3 business days to be ready for delivery.
+    For East Malaysia, the delivery time will be 2- 5 business days after the order leaves our distribution center.
+    For West Malaysia, the delivery time will be 1-3 business days after the order leaves our distribution center.
+    For orders done before 3pm, processing day will be counted on that day. For orders done after 3pm, processing day
+        will start on the next business day. Processing up to 3 business days.\n
+    <b><i>Delivery Rules and Restrictions :\n</i></b>
+    Orders are shipped on business days only. Business days are Monday to Friday, 9am - 6pm, excluding national holidays in Malaysia.\n</string>
+
+    <string name="delivery_subtitle3">How do I track my order and delivery status?</string>
+    <string name="delivery_text3">Once your order has been dispatched from our warehouse you will receive a shipping
+    confirmation email with your tracking number and link to track your order online. You will then be able to to
+    track your order via the online tracker. There may be some delay between the status of an order being updated
+    on the website, however the carrier usually updates their information within one business day. Tracking
+    information should be available as soon as you receive this email however, please note that until the carrier
+        updates their system with your tracking information, you will be unable to track your order.\n </string>
+
+
+    <string name="delivery_subtitle4">Why is my order late?</string>
+    <string name="delivery_text4">We always aim to deliver your order within our standard delivery times, but sometimes
+        unexpected factors can cause delays in your delivery.\n
+    Here are some reasons your delivery might be late:
+    -Your order was shipped during our sales and promotions season.
+    -You ordered more than one product. In exceptional circumstances your order may arrive in different packages and on different dates.
+    -Your order was placed during a local public holiday.
+    -There were unpredictable circumstances beyond our control.\n</string>
+
+
+    <string name="delivery_subtitle5">What should I do if I recieved a wrong product(s)?</string>
+    <string name="delivery_text5">If you placed your order from our online shop and received the wrong product,
+        please kindly contact us for further assistance.\n</string>
+
+    //ordering
+    <string name="ordering_inquiries">Ordering Inquiries</string>
+    <string name="ordering_subtitle">Why was my online order cancelled?</string>
+    <string name="ordering_text">Sometimes we have to cancel orders. This can be due to a number of reasons, including:\n
+        1.Stock availability. It is most likely that your size ran out of stock before we could process your order.\n
+    2.Payment issues. Your payment did not go through or we were not able to verify your payment details.\n
+    3.Delivery address issues. You may have accidentally entered an incorrect or incomplete delivery address which we couldn’t process.\n
+    You will not be charged for cancelled products. If your order, or part of it, is cancelled, you will be refunded for the cancelled products.\n
+    In order to get a clear understanding why your order was cancelled we recommend you to contact our online shop customer service team and they will be able to assist you.\n</string>
+
+    <string name="ordering_subtitle2">How do I add/make changes to my shopping cart?</string>
+    <string name="ordering_text2">To add a product to your bag, choose the size and colour you want, then select how many you want to buy before clicking the "Add To Bag" Button.\n
+    To make changes to your shopping bag, click the "Checkout" icon at the top of the page. Now you can adjust the quantity of any item in your bag, or completely remove items.\n
+        When you have finished making changes, click the "Continue Shopping" button to return to the online shop.\n </string>
+
+
+    <string name="ordering_subtitle3">Can I exchange my product(s)?</string>
+    <string name="ordering_text3">We are unable to exchange the products you ordered online and had delivered to your preferred delivery address. However, you can return unwanted products for a refund, and then place a new order.\n
+    If you choose to pick it up at a store, you may return the product upon collection and purchase something else that we have in stock in store. You may also place a new Click and Collect reservation for your desired products.\n </string>
+
+
+    <string name="ordering_subtitle4">How do I choose the right size?</string>
+    <string name="ordering_text4">There a size chart link in the product description, right next to "Select Size" that links to a full overview of all size measurements.\n</string>
+
+
+    <string name="ordering_subtitle5">I am a tourist visiting Malaysia, am I eligible for gst refund?</string>
+    <string name="ordering_text5">The adidas online shop is not part of the Tourist Refund Scheme and will not be able to process any GST refunds.\n</string>
+
+    <string name="ordering_subtitle6">What should I do if I receive the wrong product or order?</string>
+    <string name="ordering_text6">If you have received an incorrect product, we recommend you contact our customer service advisors and let the representative know the details of your order and they will then assist you further.\n</string>
+
+    <string name="ordering_subtitle7">How do I know if my order is processed?</string>
+    <string name="ordering_text7">You will receive an order confirmation email when your order has been processed. This confirms that your order has been placed successfully.\n</string>
+
+
+//payment
+    <string name="payment_inquiries">Payment Inquiries</string>
+    <string name="payment_subtitle">What payment methods do you accept?</string>
+    <string name="payment_text">On LACC Fashion we accept the following payment options:
+    1.VISA\n
+    2.PAYPAL\n
+    3.MASTER CARD\n</string>
+
+    <string name="payment_subtitle2">Can my delivery address be different from my billing address?</string>
+    <string name="payment_text2">Yes, it is possible. During the checkout process you can choose different addresses.\n
+    Please note that this option is only valid for addresses within the same country.\n</string>
+
+    <string name="payment_subtitle3">How do I checkout?</string>
+    <string name="payment_text3">If you have already registered your e-mail address with LACC, or
+        created an account at our online shop before, you can use your e-mail address to login. Otherwise, you can check out as a guest or create an account.\n
+        Next up is the payment information.\n
+        When you have completed your payment information you will enter a screen with your LACC order overview.\n </string>
+
+
+    <string name="payment_subtitle4">What do I do if my question is not covered here?</string>
+    <string name="payment_text4">If you cannot find the answer to your question here, we recommend you to contact us via\n
+    1.Facebook\n
+    2.Wechat\n
+    3.Instagram\n
+    4.WhatsApp\n
+    5.Google\n</string>
+
+//voucher
+    <string name="voucher">Promotion and Voucher</string>
+    <string name="voucher_subtitle">How do I use my voucher code?</string>
+    <string name="voucher_text">Click the Checkout button at the top of the page to go to your
+        shopping bag. Under the order summary click "Enter promo code" then type your voucher code into the box and click "Apply"\n</string>
+
+    <string name="voucher_subtitle2">What do I if my question is not covered here?</string>
+    <string name="voucher_text2">If you cannot find the answer to your question here, we recommend you to call our online shop customer service team on +603-12345678 and let the advisor know the details of your order and / or about your open question. Our advisors are happy to assist you.\n</string>
+
+    <string name="voucher_subtitle3">Why my voucher is not working?</string>
+    <string name="voucher_text3">Online shop vouchers are only valid for use on products that are part of a promotion or campaign, so check whether the relevant promotion is still running. Also, vouchers are not valid in combination with other promotions, and retail store vouchers cant be used in the online shop.\n </string>
+
+//return
+    <string name="return_and_refund">Return and Refund</string>
+    <string name="return_subtitle">How do I return my order?</string>
+    <string name="return_text">You can return via Postal Service.\n
+
+Postal Return\n
+You can return your online order within 30 days of receiving your order. Please kindly follow the following steps:
+
+1.Contact our Customer Service team +603-12345678\n
+2.Provide our Customer Service team your order details and reason for returns.\n
+3.Print out your return form(s) that will be provided by our Customer Service team via email.\n
+4.Insert your return form into the return parcel, then seal the parcel.\n
+5.Proceed to the nearest post office to post back your returns.\n
+6.Take note of the tracking number stated on the shipping label provided by the postal service as reference.\n</string>
+
+    <string name="return_subtitle2">When will I get my refund?</string>
+    <string name="return_text2">Your refund will be processed as soon as the product you have returned is
+        inspected by our quality assurance team and it is confirmed that it fits within our returns policy.
+        This quality check can take up to 2 weeks, though generally less.
+
+Once the return has been approved, it takes 1-2 days for the refund to be made by LACC online store to
+        your payment services provider (for example your credit card supplier). Please note that the time taken
+        for a payment services provider to provide you with your refund can vary depending upon the provider.\n</string>
+
+    <string name="return_subtitle3">Can I exchange my product(s)?</string>
+    <string name="return_text3">We are unable to exchange the products you ordered online and had delivered
+        to your preferred delivery address. However, you can return unwanted products for a refund, and then place a new order.\n
+
+        If you choose to pick it up at a store, you may return the product upon collection and purchase something
+        else that we have in stock in store. You may also place a new Click and Collect reservation for your desired products.\n </string>
+
+
+    <string name="return_subtitle4">Will you refund my shipping/delivery costs if I return my order?</string>
+    <string name="return_text4">We will refund your shipping costs when possible. In some cases, your entire
+        shipping costs can be refunded, like if you are returning your whole order or adidas deliver wrong
+        item or item damage due to production process. We wont be able to refund your shipping costs if you are only returning part of your order.\n</string>
+
+</resources>
+
