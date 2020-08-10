@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
                 "Delivery","Ordering Inquiries", "Payment Inquiries",
                 "Promotion And Vouchers","Return & Refund"
         };
+       // int[]image={R.drawable.delivery,R.drawable.pay,R.drawable.order,R.drawable.voucher,R.drawable.refund1};
 
         ArrayAdapter<String> adapter=new ArrayAdapter<>(this,
                 android.R.layout.simple_list_item_1, android.R.id.text1,values);
